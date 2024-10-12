@@ -6,7 +6,7 @@ body{
 }
 .container{
     min-height: 150px;
-    text-align: center;
+    
     padding: 10px;
 }
 input,button{
@@ -44,7 +44,7 @@ button:active{
     box-shadow: 5px 5px 5px rgb(35, 4, 147);
     border: 1px solid;
     width: 350px;
-    margin :15px auto;
+    
     word-wrap: break;
     padding:10px;
     color: white;
@@ -53,5 +53,5 @@ button:active{
     width: 50%;
     background-color: red;
     display: block;
-    margin: 15px auto;
+    
 }
